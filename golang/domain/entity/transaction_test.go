@@ -1,9 +1,8 @@
 package entity
 
 import (
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestTransaction_IsValid(t *testing.T) {
